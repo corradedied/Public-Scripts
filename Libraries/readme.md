@@ -1,1 +1,1 @@
-# [Documentation](https://celestial-scripthub.gitbook.io/celestial)
+# [Documentation](https://celestial-scripthub.gitbook.io/celestial/libraries)
